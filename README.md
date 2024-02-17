@@ -1,5 +1,14 @@
 # Mingle Verse an social media website 
-i have used react js as frontened for this project and node js as a beckend and mongo db as a database.
+## A React application using Redux for state management and Redux Persist for data persistence. The app features:
+
+* User authentication and profile management.
+* Theme customization between light and dark mode.
+* Friend management functionality (adding/removing friends).
+* Routing between different pages:
+* Login page for authentication.
+* Home page accessible only to authenticated users.
+* Individual user profile pages.
+* Material UI for components and theming.
 
 
 ## Available Scripts
