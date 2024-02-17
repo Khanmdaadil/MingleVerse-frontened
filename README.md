@@ -10,5 +10,5 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) or you can just visit [https://mingle-verse-frontened.vercel.app/](https://mingle-verse-frontened.vercel.app/) to view it in your browser.
-
+For the backend [GitHub Repo](https://github.com/Khanmdaadil/MingleVerse-Backend-mern_stackapp)
 
